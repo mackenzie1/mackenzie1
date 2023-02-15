@@ -1,6 +1,6 @@
 
 
-![working hard](https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif)
+![working hard](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmedia.giphy.com%2Fmedia%2Fko7twHhomhk8E%2Fgiphy.gif&f=1&nofb=1&ipt=de891a1d43bf226702e06def19765c39a15746a2b30b2b7f90f654167dd283bd&ipo=images)
 ### Howdy, I am Mackenzie Harwood 👋
 
 - :woman_technologist: Portfolio website: https://mackenzie1.github.io/
