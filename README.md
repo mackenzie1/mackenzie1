@@ -1,4 +1,14 @@
-### Hi there 👋
+
+
+![working hard](https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif)
+### Howdy, I am Mackenzie Harwood 👋
+
+- :woman_technologist: Portfolio website: https://mackenzie1.github.io/
+-  	:alien: I’m currently working on more personal projects for my portfolio
+- :ghost: Ask me about anything, I'm happy to help
+- 🌱 I’m working towards earning the Security+
+- 😄 Pronouns: She/Her
+
 
 <!--
 **mackenzie1/mackenzie1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
