@@ -3,11 +3,10 @@
 ![working hard](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmedia.giphy.com%2Fmedia%2Fko7twHhomhk8E%2Fgiphy.gif&f=1&nofb=1&ipt=de891a1d43bf226702e06def19765c39a15746a2b30b2b7f90f654167dd283bd&ipo=images)
 ### Howdy, I am Mackenzie Harwood 👋
 
+- :ghost: Emoji enthusiast
+- :lock_with_ink_pen: I’m working towards earning the Security+
+- :alien: I’m currently working on more personal projects for my portfolio
 - :woman_technologist: Portfolio website: https://mackenzie1.github.io/
--  	:alien: I’m currently working on more personal projects for my portfolio
-- :ghost: Ask me about anything, I'm happy to help
-- 🌱 I’m working towards earning the Security+
-- 😄 Pronouns: She/Her
 
 
 <!--
