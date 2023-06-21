@@ -1,6 +1,7 @@
 
 
-![working hard](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmedia.giphy.com%2Fmedia%2Fko7twHhomhk8E%2Fgiphy.gif&f=1&nofb=1&ipt=de891a1d43bf226702e06def19765c39a15746a2b30b2b7f90f654167dd283bd&ipo=images)
+![smooches](https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fbestanimations.com%2FComputers%2Ffunny-computer-animated-gif-55.gif&f=1&nofb=1&ipt=b7efdad5aa1ddebef4528afcb26d93e7caf09f493fca4f1bf9ab158b727acfd3&ipo=images)
+
 ### Howdy, I am Mackenzie Harwood 👋
 
 - :ghost: Emoji enthusiast
